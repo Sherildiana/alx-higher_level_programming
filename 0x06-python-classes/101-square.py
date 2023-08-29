@@ -124,4 +124,4 @@ class Square:
 
                 print("")
 
-        return (""
+        return ("")
